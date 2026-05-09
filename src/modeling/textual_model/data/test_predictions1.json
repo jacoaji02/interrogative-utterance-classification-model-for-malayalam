@@ -1,0 +1,290 @@
+[
+    {
+        "sent_id": "txt_029",
+        "story": "അമ്മ എപ്പോൾ തിരികെ വരും?",
+        "sentence": "നിങ്ങൾ എന്താണ് ഇന്നലെ ഏഴു മണിയ്ക്ക് ചെയ്തുകൊണ്ടിരുന്നത്",
+        "predicted_label": 1
+    },
+    {
+        "sent_id": "txt_012",
+        "story": "അമ്മ എപ്പോൾ തിരികെ വരും?",
+        "sentence": "സമയം രാവിലെ പത്ത് മണി",
+        "predicted_label": 0
+    },
+    {
+        "sent_id": "txt_007",
+        "story": "അമ്മ എപ്പോൾ തിരികെ വരും?",
+        "sentence": "സമയം രാവിലെ ആറുമണി",
+        "predicted_label": 0
+    },
+    {
+        "sent_id": "txt_018",
+        "story": "അമ്മ എപ്പോൾ തിരികെ വരും?",
+        "sentence": "റോജ ഇന്ന് പകല് മുഴുവൻ എന്താണ് ചെയ്തത്",
+        "predicted_label": 1
+    },
+    {
+        "sent_id": "txt_019",
+        "story": "അമ്മ എപ്പോൾ തിരികെ വരും?",
+        "sentence": "ഇന്ന് വളരെ രസമായിരുന്നു അമ്മേ",
+        "predicted_label": 1
+    },
+    {
+        "sent_id": "txt_006",
+        "story": "അമ്മ എപ്പോൾ തിരികെ വരും?",
+        "sentence": "ഒമ്പത് മണിയ്ക്ക്",
+        "predicted_label": 0
+    },
+    {
+        "sent_id": "txt_089",
+        "story": "എനിക്ക് അത് വേണം!",
+        "sentence": "എനിക്ക് ആ പുസ്തകം വേണം",
+        "predicted_label": 0
+    },
+    {
+        "sent_id": "txt_082",
+        "story": "എനിക്ക് അത് വേണം!",
+        "sentence": "അരുത് അരുത് അത് എടുക്കരുത് അനിലേ",
+        "predicted_label": 1
+    },
+    {
+        "sent_id": "txt_086",
+        "story": "എനിക്ക് അത് വേണം!",
+        "sentence": "എനിക്കത് വാങ്ങിച്ചു തരാമോ",
+        "predicted_label": 1
+    },
+    {
+        "sent_id": "txt_093",
+        "story": "എനിക്ക് അത് വേണം!",
+        "sentence": "ഞാൻ തൊട്ടാൽ ഇത് എങ്ങനെ വാടി പോകും",
+        "predicted_label": 1
+    },
+    {
+        "sent_id": "txt_106",
+        "story": "കാക്കച്ചിയും കൂട്ടുകാരും",
+        "sentence": "നമ്മുടെ ജീവൻ ആപത്തിലായി അല്ലേ",
+        "predicted_label": 1
+    },
+    {
+        "sent_id": "txt_117",
+        "story": "കാക്കച്ചിയും കൂട്ടുകാരും",
+        "sentence": "തീർച്ചയായും നിന്നെക്കൊണ്ട് സാധിക്കും",
+        "predicted_label": 0
+    },
+    {
+        "sent_id": "txt_105",
+        "story": "കാക്കച്ചിയും കൂട്ടുകാരും",
+        "sentence": "നമ്മൾ ഇനി എന്ത് ചെയ്യും അമ്മേ",
+        "predicted_label": 1
+    },
+    {
+        "sent_id": "txt_107",
+        "story": "കാക്കച്ചിയും കൂട്ടുകാരും",
+        "sentence": "എല്ലാവർക്കും വിഷമമായി",
+        "predicted_label": 0
+    },
+    {
+        "sent_id": "txt_111",
+        "story": "കാക്കച്ചിയും കൂട്ടുകാരും",
+        "sentence": "ഞാനോ",
+        "predicted_label": 1
+    },
+    {
+        "sent_id": "txt_142",
+        "story": "കുഞ്ഞിക്കുറുമ്പൻ മുറുമുറുപ്പൻ",
+        "sentence": "എനിക്ക് സന്തോഷം വരുമ്പോൾ ഞാൻ എന്താ ചെയ്യേണ്ടത് അച്ഛാ",
+        "predicted_label": 0
+    },
+    {
+        "sent_id": "txt_136",
+        "story": "കുഞ്ഞിക്കുറുമ്പൻ മുറുമുറുപ്പൻ",
+        "sentence": "കിളിയമ്മ ചോദിച്ചു",
+        "predicted_label": 0
+    },
+    {
+        "sent_id": "txt_129",
+        "story": "കുഞ്ഞിക്കുറുമ്പൻ മുറുമുറുപ്പൻ",
+        "sentence": "വാലാട്ടിക്കിളിയമ്മ പിന്നെ പൂച്ചയുടെ അടുത്തേക്ക് ചെന്നു",
+        "predicted_label": 0
+    },
+    {
+        "sent_id": "txt_130",
+        "story": "കുഞ്ഞിക്കുറുമ്പൻ മുറുമുറുപ്പൻ",
+        "sentence": "പൂച്ചേ പൂച്ചേ",
+        "predicted_label": 1
+    },
+    {
+        "sent_id": "txt_137",
+        "story": "കുഞ്ഞിക്കുറുമ്പൻ മുറുമുറുപ്പൻ",
+        "sentence": "സന്തോഷം വരുമ്പോഴോ",
+        "predicted_label": 1
+    },
+    {
+        "sent_id": "txt_219",
+        "story": "ഞാൻ വലുതാകുമ്പോൾ",
+        "sentence": "പക്ഷേ ഞാൻ അവിടെ നിർത്തില്ല",
+        "predicted_label": 0
+    },
+    {
+        "sent_id": "txt_213",
+        "story": "ഞാൻ വലുതാകുമ്പോൾ",
+        "sentence": "ഞാനൊരു സിവിൽ എഞ്ചിനീയർ ആയിത്തീരും",
+        "predicted_label": 0
+    },
+    {
+        "sent_id": "txt_211",
+        "story": "ഞാൻ വലുതാകുമ്പോൾ",
+        "sentence": "ചന്ദ്രൻ വരെയോ",
+        "predicted_label": 1
+    },
+    {
+        "sent_id": "txt_217",
+        "story": "ഞാൻ വലുതാകുമ്പോൾ",
+        "sentence": "കടലിനടിയിൽ വാഹനങ്ങൾക്ക് യാത്ര ചെയ്യാൻ സാധിക്കുമോ",
+        "predicted_label": 1
+    },
+    {
+        "sent_id": "txt_065",
+        "story": "ദേഷ്യക്കാരി അക്കു",
+        "sentence": "ഞാൻ എന്തെങ്കിലും ചെയ്തതാണോ",
+        "predicted_label": 1
+    },
+    {
+        "sent_id": "txt_070",
+        "story": "ദേഷ്യക്കാരി അക്കു",
+        "sentence": "ശരിയാ അതൊരു മണ്ടൻ കല്ല് തന്നെ",
+        "predicted_label": 0
+    },
+    {
+        "sent_id": "txt_064",
+        "story": "ദേഷ്യക്കാരി അക്കു",
+        "sentence": "നിനക്കെന്താ ഇത്ര ദേഷ്യമെന്ന് ഇനി പറയാമോ",
+        "predicted_label": 1
+    },
+    {
+        "sent_id": "txt_059",
+        "story": "ദേഷ്യക്കാരി അക്കു",
+        "sentence": "ഞാൻ കൊറച്ചു കുരങ്ങന്മാരെ കണ്ടേ",
+        "predicted_label": 1
+    },
+    {
+        "sent_id": "txt_069",
+        "story": "ദേഷ്യക്കാരി അക്കു",
+        "sentence": "നിനക്ക് വരയ്ക്കണോ",
+        "predicted_label": 1
+    },
+    {
+        "sent_id": "txt_051",
+        "story": "ബാറ്റെവിടെപ്പോയി",
+        "sentence": "അത് ഇനി ഈ തട്ടിന്റെ മുകളിൽ ആയിരിക്കുമോ",
+        "predicted_label": 1
+    },
+    {
+        "sent_id": "txt_043",
+        "story": "ബാറ്റെവിടെപ്പോയി",
+        "sentence": "അവന് ആകെ സംശയമായി",
+        "predicted_label": 0
+    },
+    {
+        "sent_id": "txt_034",
+        "story": "ബാറ്റെവിടെപ്പോയി",
+        "sentence": "അവൻ അമ്മയുടെ അടുത്തേക്ക് ഓടിച്ചെന്ന് ചോദിച്ചു",
+        "predicted_label": 0
+    },
+    {
+        "sent_id": "txt_045",
+        "story": "ബാറ്റെവിടെപ്പോയി",
+        "sentence": "അത് സ്റ്റോറിൽ കാണുമായിരിക്കും അല്ലേ",
+        "predicted_label": 1
+    },
+    {
+        "sent_id": "txt_053",
+        "story": "ബാറ്റെവിടെപ്പോയി",
+        "sentence": "അതാ ഇരിക്കുന്നു അവന്റെ ബാറ്റ്",
+        "predicted_label": 0
+    },
+    {
+        "sent_id": "txt_036",
+        "story": "ബാറ്റെവിടെപ്പോയി",
+        "sentence": "അമ്മ കണ്ടില്ല",
+        "predicted_label": 0
+    },
+    {
+        "sent_id": "txt_179",
+        "story": "മീരയും അമീരയും",
+        "sentence": "അവൾ എല്ലാം തലതിരിച്ച് വയ്ക്കും",
+        "predicted_label": 0
+    },
+    {
+        "sent_id": "txt_172",
+        "story": "മീരയും അമീരയും",
+        "sentence": "കഴിഞ്ഞ ദിവസത്തെ കാര്യം പറയട്ടെ",
+        "predicted_label": 0
+    },
+    {
+        "sent_id": "txt_170",
+        "story": "മീരയും അമീരയും",
+        "sentence": "എന്ത് പല്ലോ",
+        "predicted_label": 1
+    },
+    {
+        "sent_id": "txt_178",
+        "story": "മീരയും അമീരയും",
+        "sentence": "എന്താണ് കാരണം",
+        "predicted_label": 1
+    },
+    {
+        "sent_id": "txt_200",
+        "story": "മുതുമുത്തശ്ശി",
+        "sentence": "മുതുമുത്തശ്ശി തോൾ കുലുക്കി",
+        "predicted_label": 0
+    },
+    {
+        "sent_id": "txt_193",
+        "story": "മുതുമുത്തശ്ശി",
+        "sentence": "മുതുമുത്തശ്ശി ഇരട്ടകളെ കെട്ടിപ്പിടിച്ചു",
+        "predicted_label": 0
+    },
+    {
+        "sent_id": "txt_190",
+        "story": "മുതുമുത്തശ്ശി",
+        "sentence": "നിങ്ങൾ അവിടെയെത്തുമ്പോൾ മുതുമുത്തശ്ശിയോടു തന്നെ ചോദിച്ചാലെന്താ",
+        "predicted_label": 0
+    },
+    {
+        "sent_id": "txt_196",
+        "story": "മുതുമുത്തശ്ശി",
+        "sentence": "അതിലെന്താ കാര്യമുള്ളത്",
+        "predicted_label": 0
+    },
+    {
+        "sent_id": "txt_151",
+        "story": "ലസ്സിയോ ഐസ്ക്രീമോ അതോ ഫലൂദയോ?",
+        "sentence": "അതിന് എന്ത് രുചിയും മണവുമായിരുന്നെന്നോ",
+        "predicted_label": 1
+    },
+    {
+        "sent_id": "txt_158",
+        "story": "ലസ്സിയോ ഐസ്ക്രീമോ അതോ ഫലൂദയോ?",
+        "sentence": "നല്ല ദസേറി മാമ്പഴങ്ങളും ഉണ്ട്",
+        "predicted_label": 0
+    },
+    {
+        "sent_id": "txt_148",
+        "story": "ലസ്സിയോ ഐസ്ക്രീമോ അതോ ഫലൂദയോ?",
+        "sentence": "മലകളിലെപ്പോലെ വേനല്ക്കാലത്തും ഊട്ടിയില് തണുപ്പാണോ മാമ",
+        "predicted_label": 0
+    },
+    {
+        "sent_id": "txt_155",
+        "story": "ലസ്സിയോ ഐസ്ക്രീമോ അതോ ഫലൂദയോ?",
+        "sentence": "എന്തുകൊണ്ടാണ് അവിടെ ചൂട് കൂടുന്നത്",
+        "predicted_label": 0
+    },
+    {
+        "sent_id": "txt_157",
+        "story": "ലസ്സിയോ ഐസ്ക്രീമോ അതോ ഫലൂദയോ?",
+        "sentence": "വേനൽക്കാലത്ത് നന്നായി ദാഹിക്കും അല്ലേ",
+        "predicted_label": 1
+    }
+]
